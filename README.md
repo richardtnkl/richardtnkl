@@ -4,13 +4,14 @@ Business Innovation student who builds the things he proposes.
 
 ---
 
-## About me
+- ## About me
 
 - 🎓 **M.A. Business Innovation** at the **University of St. Gallen (HSG)** — concentration in Transforming and Managing Digital Business
 - 💼 **Working Student, Business Engineering** at **Zurich Insurance** — building an AI agent for open-source software risk assessment and mapping enterprise architecture to find bottlenecks in end-to-end process automation
 - 📝 Writing my master's thesis on **scaling AI solutions in DACH automotive companies through enterprise architecture**
 - 🛠️ I come from the business side and learned to build. Most of what I ship starts as a process problem someone described to me in a meeting.
-- 🏆 Hackathon participant — Zurich Insurance internal hackathon, Start Hack St. Gallen
+- 🏆 **Start Hack 2026, St. Gallen** — solving Viseca's challenge: a wallet control layer that turns customer policy into enforceable permissions for AI shopping agents, returning approve / decline / step-up decisions with transparent reasoning.
+- 🏅 Also competed at Zurich Insurance's internal hackathon
 
 ---
 
